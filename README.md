@@ -68,3 +68,10 @@ Here are some of my notable projects:
 - 🚀 GitHub Profile 1: [meghnadsaha](https://github.com/meghnadsaha)
 - 🚀 GitHub Profile 2: [meghnadsaha](https://github.com/rohitsunilsharma2000)
 
+
+## 📜 Resume
+
+  📜 [View Resume](https://github.com/meghnadsaha/portfolio/blob/main/Resume-updated.docx)
+
+---
+
