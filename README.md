@@ -69,9 +69,10 @@ Here are some of my notable projects:
 - 🚀 GitHub Profile 2: [meghnadsaha](https://github.com/rohitsunilsharma2000)
 
 
-## 📜 Resume
+## 📜 Resume And Cover Letter
 
   📜 [View Resume](https://github.com/meghnadsaha/portfolio/blob/main/Resume-updated.docx)
+  📜 [Cover Letter](https://github.com/meghnadsaha/portfolio/blob/main/Cover%20Letter.docx)
 
 ---
 
