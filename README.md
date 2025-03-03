@@ -71,8 +71,8 @@ Here are some of my notable projects:
 
 ## 📜 Resume And Cover Letter
 
-  📜 [View Resume](https://github.com/meghnadsaha/portfolio/blob/main/Resume-updated.docx)
-  📜 [Cover Letter](https://github.com/meghnadsaha/portfolio/blob/main/Cover%20Letter.docx)
+ - 📜 [View Resume](https://github.com/meghnadsaha/portfolio/blob/main/Resume-updated.docx)
+ - 📜 [Cover Letter](https://github.com/meghnadsaha/portfolio/blob/main/Cover%20Letter.docx)
 
 ---
 
