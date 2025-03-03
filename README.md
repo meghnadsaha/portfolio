@@ -64,5 +64,7 @@ Here are some of my notable projects:
 
 ## 📬 Contact
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)  
-🚀 GitHub: [meghnadsaha](https://github.com/meghnadsaha)
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)  
+- 🚀 GitHub Profile 1: [meghnadsaha](https://github.com/meghnadsaha)
+- 🚀 GitHub Profile 2: [meghnadsaha](https://github.com/rohitsunilsharma2000)
+
