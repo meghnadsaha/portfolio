@@ -64,6 +64,5 @@ Here are some of my notable projects:
 
 ## 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)  
 🚀 GitHub: [meghnadsaha](https://github.com/meghnadsaha)
